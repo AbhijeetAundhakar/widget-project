@@ -1,3 +1,8 @@
 1. Clone the project on your local system --> git clone https://github.com/AbhijeetAundhakar/widget-project.git
 2. Install node_modules under widget-project/widiget-dashboard using --> npm i
 3. Run the project using - npm run dev
+
+
+
+Also i have deployed on github you can check directly here by pasting the given below link
+--> https://abhijeetaundhakar.github.io/widget-project-deploy/
